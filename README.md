@@ -1,2 +1,2 @@
 # HackerRank
-Repositório com questões resolvidas do HackerRank
+Repositório em que resolvo e comento questões do HackerRank
