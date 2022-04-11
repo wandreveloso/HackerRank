@@ -25,7 +25,7 @@ O que é postado aqui é somente para fins didáticos e utilize as explicações
 ## Python
 | Tema | Desafio | Solução | Explicação em vídeo |
 |--|--|--|--|
-|Introdução|[Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world?isFullScreen=true)|  [Say "Hello, World!" With Python.py]()||
+|Introdução|[Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world?isFullScreen=true)|  [Say "Hello, World!" With Python.py](https://github.com/wandreveloso/HackerRank/blob/main/Say%20%22Hello%2C%20World!%22%20With%20Python.py)||
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
