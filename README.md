@@ -33,13 +33,64 @@ O que é postado aqui é somente para fins didáticos e utilize as explicações
 
 
 ## SQL
+| Tema | Desafio | Solução | Explicação em vídeo |
+|--|--|--|--|
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+
+## Problem Solving
+
+| Tema | Desafio | Solução | Explicação em vídeo |
+|--|--|--|--|
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 
 
 # Tutorials
 
 ## 30 Days of code
+| Tema | Desafio | Solução | Explicação em vídeo |
+|--|--|--|--|
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 
 ## 10 Days of Javascript
+| Tema | Desafio | Solução | Explicação em vídeo |
+|--|--|--|--|
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+
 
 ## 10 Days of Statistics
-
+| Tema | Desafio | Solução | Explicação em vídeo |
+|--|--|--|--|
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
