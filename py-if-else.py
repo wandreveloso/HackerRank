@@ -2,11 +2,13 @@
 # Este código foi retirado do GitHub https://github.com/wandreveloso
 # Se você chegou a este código, entre no link e clique na estrela para apoiar esta iniciativa
 
-'''
+"""
 Desafio: https://www.hackerrank.com/challenges/py-if-else
+
 O objetivo dessa questão é ensinar o uso dos comandos if, else e elif.
-Repare que esse programa somente será executado até 1 print. Caso o número seja menor do que 1, não será impresso nada
-'''
+
+Repare que esse programa somente será executado até 1 print. Caso o número seja menor do que 1, não será impresso nada.
+"""
 #!/bin/python3
 
 import math

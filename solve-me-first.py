@@ -12,4 +12,14 @@ variáveis (fora de aspas e apóstrofes).
 
 Diferentemente de outras linguagens como C e Java, somente 1 comando e 1 linha são necessários para fazer o clássico
 programa "Hello, World!" """
-print("Hello, World!")
+
+
+def solveMeFirst(a, b):
+    # Hint: Type return a+b below
+    return a + b
+
+
+num1 = int(input())
+num2 = int(input())
+res = solveMeFirst(num1, num2)
+print(res)
