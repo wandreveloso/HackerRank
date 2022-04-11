@@ -1,5 +1,6 @@
 <!---
 Editor de markdown: https://stackedit.io/
+Modelo: https://github.com/Java-aid/Hackerrank-Solutions/blob/master/README.md
  --->
 # Bem-vindo ao meu repositório de respostas comentadas do HackerRank!
 
@@ -25,8 +26,8 @@ O que é postado aqui é somente para fins didáticos e utilize as explicações
 ## Python
 | Tema | Desafio | Solução | Explicação em vídeo |
 |--|--|--|--|
-|Introdução|[Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world?isFullScreen=true)|  [Say "Hello, World!" With Python.py](https://github.com/wandreveloso/HackerRank/blob/main/py-hello-world.py)||
-|  |  |  |  |
+|Introdução|[Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world?isFullScreen=true)|[py-hello-world.py](https://github.com/wandreveloso/HackerRank/blob/main/py-hello-world.py)||
+|Introdução|[Python If-Else](https://www.hackerrank.com/challenges/py-if-else)|[py-if-else.py](https://github.com/wandreveloso/HackerRank/blob/main/py-if-else.py)|  |
 |  |  |  |  |
 |  |  |  |  |
 
