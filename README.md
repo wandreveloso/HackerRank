@@ -28,7 +28,7 @@ O que é postado aqui é somente para fins didáticos e utilize as explicações
 |--|--|--|--|
 |Introdução|[Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world?isFullScreen=true)|[py-hello-world.py](https://github.com/wandreveloso/HackerRank/blob/main/py-hello-world.py)||
 |Introdução|[Python If-Else](https://www.hackerrank.com/challenges/py-if-else)|[py-if-else.py](https://github.com/wandreveloso/HackerRank/blob/main/py-if-else.py)|  |
-|  |  |  |  |
+|Introdução|[Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators)|[python-arithmetic-operators.py](https://github.com/wandreveloso/HackerRank/blob/main/python-arithmetic-operators.py)|  |
 |  |  |  |  |
 
 
