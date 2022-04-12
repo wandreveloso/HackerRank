@@ -11,5 +11,6 @@ O conteúdo dentro dos parênteses pode ser tanto um texto literal (aí usa-se a
 variáveis (fora de aspas e apóstrofes).
 
 Diferentemente de outras linguagens como C e Java, somente 1 comando e 1 linha são necessários para fazer o clássico
-programa "Hello, World!" """
+programa "Hello, World!"
+"""
 print("Hello, World!")

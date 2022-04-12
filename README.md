@@ -26,7 +26,7 @@ O que é postado aqui é somente para fins didáticos e utilize as explicações
 ## Python
 | Tema | Desafio | Solução | Explicação em vídeo |
 |--|--|--|--|
-|Introdução|[Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world?isFullScreen=true)|[py-hello-world.py](https://github.com/wandreveloso/HackerRank/blob/main/py-hello-world.py)||
+|Introdução|[Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world)|[py-hello-world.py](https://github.com/wandreveloso/HackerRank/blob/main/py-hello-world.py)||
 |Introdução|[Python If-Else](https://www.hackerrank.com/challenges/py-if-else)|[py-if-else.py](https://github.com/wandreveloso/HackerRank/blob/main/py-if-else.py)|  |
 |Introdução|[Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators)|[python-arithmetic-operators.py](https://github.com/wandreveloso/HackerRank/blob/main/python-arithmetic-operators.py)|  |
 |Introdução|[Python: Division](https://www.hackerrank.com/challenges/python-division)|[python-division.py](https://github.com/wandreveloso/HackerRank/blob/main/python-division.py)|  |
@@ -46,13 +46,13 @@ O que é postado aqui é somente para fins didáticos e utilize as explicações
 
 | Tema | Desafio | Solução | Explicação em vídeo |
 |--|--|--|--|
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-
+|Basic|[Solve Me First](https://www.hackerrank.com/challenges/solve-me-first)|[solve-me-first.py](https://github.com/wandreveloso/HackerRank/blob/main/solve-me-first.py)|  |
+|Basic|[Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum)|[simple-array-sum.py](https://github.com/wandreveloso/HackerRank/blob/main/simple-array-sum.py)|  |
+|Basic|[Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets)|[compare-the-triplets.py](https://github.com/wandreveloso/HackerRank/blob/main/compare-the-triplets.py)|  |
+|Basic|[A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum)|[a-very-big-sum.py](https://github.com/wandreveloso/HackerRank/blob/main/a-very-big-sum.py)|  |
+|Basic|[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference)|[diagonal-difference.py](https://github.com/wandreveloso/HackerRank/blob/main/diagonal-difference.py)|  |
+|Basic|[Plus Minus](https://www.hackerrank.com/challenges/plus-minus)|[plus-minus.py](https://github.com/wandreveloso/HackerRank/blob/main/plus-minus.py)|  |
+|Basic|[Staircase](https://www.hackerrank.com/challenges/staircase)|[staircase.py](https://github.com/wandreveloso/HackerRank/blob/main/staircase.py)|  |
 
 # Tutorials
 

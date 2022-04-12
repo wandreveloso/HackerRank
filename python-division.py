@@ -15,7 +15,8 @@ o resultado da divisão convencional).
 Na divisão convencional, usamos o símbolo / (uma única barra) e retorna, para 7/3, o número real 2.3333333333333335.
 
 Por fim, para resto da divisão usamos o símbolo % (porcentagem) e retorna, para 7%3, o número inteiro 1, pois,
-é uma divisão inexata e "sobra" 1. """
+é uma divisão inexata e "sobra" 1.
+"""
 if __name__ == '__main__':
     a = int(input())  # Pega a entrada do usuário, converte para inteiro e guarda na variável a
     b = int(input())
