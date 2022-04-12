@@ -13,14 +13,14 @@ O que é postado aqui é somente para fins didáticos e utilize as explicações
 
 # Índice
 
- - [Prepare by topics](https://github.com/wandreveloso/HackerRank/edit/main/README.md#prepare-by-topics)
-	 - [Python](https://github.com/wandreveloso/HackerRank/edit/main/README.md#python)
-	 - [SQL](https://github.com/wandreveloso/HackerRank/edit/main/README.md#sql)
-	 - [Problem Solving](https://github.com/wandreveloso/HackerRank/edit/main/README.md#problem-solving)
- - [Tutorials](https://github.com/wandreveloso/HackerRank/edit/main/README.md#tutorials)
-	 - [30 Days of code](https://github.com/wandreveloso/HackerRank/edit/main/README.md#30-days-of-code)
-	 - [10 Days of Javascript](https://github.com/wandreveloso/HackerRank/edit/main/README.md#10-days-of-javascript)
-	 - [10 Days of Statistics](https://github.com/wandreveloso/HackerRank/edit/main/README.md#10-days-of-statistics)
+ - [Prepare by topics](https://github.com/wandreveloso/HackerRank#prepare-by-topics)
+	 - [Python](https://github.com/wandreveloso/HackerRank#python)
+	 - [SQL](https://github.com/wandreveloso/HackerRank#sql)
+	 - [Problem Solving](https://github.com/wandreveloso/HackerRank#problem-solving)
+ - [Tutorials](https://github.com/wandreveloso/HackerRank#tutorials)
+	 - [30 Days of code](https://github.com/wandreveloso/HackerRank#30-days-of-code)
+	 - [10 Days of Javascript](https://github.com/wandreveloso/HackerRank#10-days-of-javascript)
+	 - [10 Days of Statistics](https://github.com/wandreveloso/HackerRank#10-days-of-statistics)
 
 # Prepare by topics
 
